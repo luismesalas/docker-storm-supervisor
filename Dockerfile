@@ -10,5 +10,4 @@ EXPOSE 6702
 EXPOSE 6703
 EXPOSE 8000
 
-ADD start-supervisor.sh /usr/bin/start-supervisor.sh
 CMD /usr/bin/start-supervisor.sh
